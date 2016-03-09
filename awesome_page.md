@@ -5,4 +5,4 @@ this is a code block
 ```
 something `code 2`
 [Google](www.google.com)
-![google](www.google.com)
+![googly](www.google.com)
